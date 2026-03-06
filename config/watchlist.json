@@ -1,0 +1,14 @@
+{
+  "tickers": [
+    "data/fixtures/nvda.json",
+    "data/fixtures/aapl.json",
+    "data/fixtures/baba.json"
+  ],
+  "agent_weights": {
+    "fundamentals": 0.25,
+    "valuation": 0.25,
+    "sentiment": 0.15,
+    "technical": 0.15,
+    "macro": 0.20
+  }
+}

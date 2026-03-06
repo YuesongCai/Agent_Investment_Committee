@@ -1,0 +1,57 @@
+{
+  "ticker": "BABA",
+  "company_name": "Alibaba Group Holding Limited",
+  "data_date": "2026-03-01",
+  "earnings_transcript_summary": "Alibaba reported Q3 FY2026 (Dec quarter) revenue of RMB 280.2B ($38.4B), up 8% YoY, in line with consensus. Cloud Intelligence Group revenue was RMB 31.7B, up 13% YoY, with AI-related revenue growing triple digits off a small base. China commerce revenue was RMB 136.4B, up 5% YoY, with Taobao/Tmall showing improved monetization. International commerce (AIDC) grew 32% YoY to RMB 37.8B. Adjusted EBITDA was RMB 62.1B, up 4% YoY. Management announced a $25B buyback program expansion and emphasized AI infrastructure investment of RMB 380B over the next 3 years. CEO Eddie Wu highlighted the 'AI-driven reinvention of commerce' as a strategic priority. Free cash flow was RMB 57.8B.",
+  "financials": {
+    "revenue_ttm": 1020000000000,
+    "net_income_ttm": 128000000000,
+    "ebitda_ttm": 215000000000,
+    "free_cash_flow_ttm": 185000000000,
+    "total_debt": 195000000000,
+    "cash_and_equivalents": 410000000000,
+    "shares_outstanding": 19800000000,
+    "market_cap": 2850000000000,
+    "pe_ratio": 14.2,
+    "ev_ebitda": 8.5,
+    "revenue_growth_yoy": 0.08,
+    "gross_margin": 0.38,
+    "operating_margin": 0.15,
+    "net_margin": 0.125,
+    "roe": 0.12,
+    "roic": 0.09,
+    "debt_to_equity": 0.22,
+    "current_ratio": 1.65
+  },
+  "price": {
+    "current_price": 143.80,
+    "price_52w_high": 148.00,
+    "price_52w_low": 68.36,
+    "sma_50": 132.50,
+    "sma_200": 108.70,
+    "rsi_14": 63.8,
+    "avg_volume_30d": 28000000,
+    "beta": 0.72,
+    "ytd_return": 0.52,
+    "one_year_return": 0.85
+  },
+  "sentiment": {
+    "short_interest_pct": 2.1,
+    "analyst_buy_pct": 0.78,
+    "analyst_hold_pct": 0.18,
+    "analyst_sell_pct": 0.04,
+    "consensus_target_price": 160.00,
+    "insider_net_shares_12m": -5000000,
+    "news_sentiment_summary": "Dramatically improved sentiment in 2026. China tech re-rating narrative driven by DeepSeek AI breakthrough and government policy support for tech sector. Xi Jinping's meeting with Jack Ma and other tech leaders seen as policy signal. However, concerns remain about VIE structure risk, potential US delisting, and sustainability of the re-rating. Cloud growth acceleration from AI demand is a key positive catalyst.",
+    "options_put_call_ratio": 0.72
+  },
+  "macro": {
+    "sector": "Technology",
+    "industry": "E-Commerce / Cloud Computing",
+    "macro_summary": "China GDP growth ~4.5%, property sector stabilizing but weak. PBOC maintaining accommodative stance. Government actively supporting tech sector after years of regulatory crackdown. DeepSeek moment has catalyzed China AI investment thesis. US-China relations tense but trade war fears somewhat priced in. RMB stable at ~7.3/USD.",
+    "sector_performance_ytd": 0.35,
+    "interest_rate_environment": "PBOC accommodative, LPR at 3.1%. China 10Y at 1.7%.",
+    "relevant_policy_signals": "Government tech support policies accelerating. HFCAA delisting risk reduced after PCAOB audit access agreement extended. New data security regulations provide more clarity. Potential US tariff escalation remains a tail risk."
+  },
+  "additional_context": "BABA is a China ADR listed on NYSE with a VIE (Variable Interest Entity) structure — investors hold shares in a Cayman Islands entity, not direct equity in the Chinese operating companies. This structural risk is a permanent discount factor. The stock has re-rated significantly in 2026 after years of underperformance."
+}

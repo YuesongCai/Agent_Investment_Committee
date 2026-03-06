@@ -1,0 +1,56 @@
+{
+  "ticker": "NVDA",
+  "company_name": "NVIDIA Corporation",
+  "data_date": "2026-03-01",
+  "earnings_transcript_summary": "NVIDIA reported Q4 FY2026 revenue of $39.3B, up 78% YoY, beating consensus of $38.1B. Data center revenue was $35.6B, up 93% YoY, driven by Blackwell GPU ramp. CEO Jensen Huang highlighted that 'the age of AI inference is upon us' and that Blackwell demand exceeds supply. Gross margin was 73.0%, down from 76.0% sequentially due to Blackwell ramp costs, but management guided to 75%+ by mid-year as yields improve. Gaming revenue was $2.5B, roughly flat YoY. Auto revenue was $1.0B, up 100% YoY. FY2027 capex guided to $3B+. Management emphasized sovereign AI opportunity and enterprise AI adoption inflection. Guidance for Q1 FY2027: $43B +/- 2%, implying continued acceleration.",
+  "financials": {
+    "revenue_ttm": 130500000000,
+    "net_income_ttm": 63400000000,
+    "ebitda_ttm": 81200000000,
+    "free_cash_flow_ttm": 60800000000,
+    "total_debt": 9800000000,
+    "cash_and_equivalents": 43200000000,
+    "shares_outstanding": 24500000000,
+    "market_cap": 3200000000000,
+    "pe_ratio": 50.5,
+    "ev_ebitda": 39.0,
+    "revenue_growth_yoy": 0.78,
+    "gross_margin": 0.73,
+    "operating_margin": 0.62,
+    "net_margin": 0.486,
+    "roe": 1.15,
+    "roic": 0.85,
+    "debt_to_equity": 0.17,
+    "current_ratio": 4.2
+  },
+  "price": {
+    "current_price": 130.60,
+    "price_52w_high": 153.13,
+    "price_52w_low": 75.61,
+    "sma_50": 128.40,
+    "sma_200": 118.50,
+    "rsi_14": 58.3,
+    "avg_volume_30d": 320000000,
+    "beta": 1.65,
+    "ytd_return": 0.08,
+    "one_year_return": 0.52
+  },
+  "sentiment": {
+    "short_interest_pct": 1.2,
+    "analyst_buy_pct": 0.88,
+    "analyst_hold_pct": 0.10,
+    "analyst_sell_pct": 0.02,
+    "consensus_target_price": 170.00,
+    "insider_net_shares_12m": -15000000,
+    "news_sentiment_summary": "Overwhelmingly positive coverage focused on AI infrastructure buildout and Blackwell demand. Some concern about valuation and potential cyclicality of AI capex spending. Geopolitical risk around China export controls mentioned frequently. DeepSeek efficiency gains raised questions about long-term GPU demand trajectory but were largely dismissed by bulls.",
+    "options_put_call_ratio": 0.65
+  },
+  "macro": {
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "macro_summary": "Fed holding rates steady at 4.5%. AI capex cycle continues with hyperscalers guiding $250B+ combined capex for 2026. Semiconductor sector outperforming S&P 500 YTD. US-China tech tensions persist with expanded export controls on advanced AI chips. Strong dollar environment.",
+    "sector_performance_ytd": 0.12,
+    "interest_rate_environment": "Rates on hold at 4.5%, market pricing 1-2 cuts in H2 2026",
+    "relevant_policy_signals": "Expanded CHIPS Act subsidies flowing. Export controls on advanced AI chips to China tightened in Q1 2026. EU AI Act implementation ongoing but limited direct impact on hardware."
+  }
+}

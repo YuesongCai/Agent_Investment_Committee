@@ -1,0 +1,56 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple Inc.",
+  "data_date": "2026-03-01",
+  "earnings_transcript_summary": "Apple reported Q1 FY2026 (Dec quarter) revenue of $124.3B, up 4% YoY, slightly above consensus. iPhone revenue was $69.1B, up 2% YoY — Apple Intelligence features drove modest upgrade cycle acceleration but below initial hype expectations. Services revenue hit $26.3B, up 14% YoY, the clear growth engine. Wearables were flat. Greater China revenue declined 2% YoY on competitive pressure from Huawei. Gross margin was 46.9%, up 50bps YoY. Tim Cook emphasized the installed base of 2.35B active devices as 'the foundation for our services flywheel.' Management declined to give specific AI revenue metrics. FY2026 Q2 guidance: revenue $95-98B, roughly flat YoY.",
+  "financials": {
+    "revenue_ttm": 410000000000,
+    "net_income_ttm": 101000000000,
+    "ebitda_ttm": 135000000000,
+    "free_cash_flow_ttm": 110000000000,
+    "total_debt": 98000000000,
+    "cash_and_equivalents": 30000000000,
+    "shares_outstanding": 15200000000,
+    "market_cap": 3650000000000,
+    "pe_ratio": 36.1,
+    "ev_ebitda": 27.5,
+    "revenue_growth_yoy": 0.04,
+    "gross_margin": 0.469,
+    "operating_margin": 0.335,
+    "net_margin": 0.246,
+    "roe": 1.47,
+    "roic": 0.58,
+    "debt_to_equity": 1.45,
+    "current_ratio": 0.95
+  },
+  "price": {
+    "current_price": 240.20,
+    "price_52w_high": 260.10,
+    "price_52w_low": 169.21,
+    "sma_50": 237.80,
+    "sma_200": 225.60,
+    "rsi_14": 52.1,
+    "avg_volume_30d": 55000000,
+    "beta": 1.24,
+    "ytd_return": -0.02,
+    "one_year_return": 0.28
+  },
+  "sentiment": {
+    "short_interest_pct": 0.7,
+    "analyst_buy_pct": 0.65,
+    "analyst_hold_pct": 0.28,
+    "analyst_sell_pct": 0.07,
+    "consensus_target_price": 255.00,
+    "insider_net_shares_12m": -8000000,
+    "news_sentiment_summary": "Mixed sentiment. Bulls focus on services growth and AI integration into the ecosystem. Bears highlight slowing iPhone growth, China risks, and stretched valuation for a low-single-digit grower. Apple Intelligence reception has been lukewarm vs. initial expectations. Regulatory pressure in EU (DMA compliance) and US (DOJ antitrust case) ongoing.",
+    "options_put_call_ratio": 0.82
+  },
+  "macro": {
+    "sector": "Technology",
+    "industry": "Consumer Electronics",
+    "macro_summary": "Consumer spending resilient but moderating. Strong dollar headwind for international revenue (~60% of total). China consumer sentiment weak. Services revenue benefits from installed base monetization regardless of hardware cycle. Interest rate environment neutral for consumer discretionary.",
+    "sector_performance_ytd": 0.12,
+    "interest_rate_environment": "Rates on hold at 4.5%, stable consumer spending environment",
+    "relevant_policy_signals": "EU Digital Markets Act requiring App Store changes. DOJ antitrust trial ongoing. India manufacturing expansion accelerating to diversify from China supply chain."
+  }
+}
